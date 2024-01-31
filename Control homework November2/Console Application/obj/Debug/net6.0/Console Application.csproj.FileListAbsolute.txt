@@ -1,0 +1,18 @@
+/Users/kleshny/Projects/Control homework November2/Console Application/bin/Debug/net6.0/Console Application
+/Users/kleshny/Projects/Control homework November2/Console Application/bin/Debug/net6.0/Console Application.deps.json
+/Users/kleshny/Projects/Control homework November2/Console Application/bin/Debug/net6.0/Console Application.runtimeconfig.json
+/Users/kleshny/Projects/Control homework November2/Console Application/bin/Debug/net6.0/Console Application.dll
+/Users/kleshny/Projects/Control homework November2/Console Application/bin/Debug/net6.0/Console Application.pdb
+/Users/kleshny/Projects/Control homework November2/Console Application/bin/Debug/net6.0/ClassLibary.dll
+/Users/kleshny/Projects/Control homework November2/Console Application/bin/Debug/net6.0/ClassLibary.pdb
+/Users/kleshny/Projects/Control homework November2/Console Application/obj/Debug/net6.0/Console Application.csproj.AssemblyReference.cache
+/Users/kleshny/Projects/Control homework November2/Console Application/obj/Debug/net6.0/Console Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kleshny/Projects/Control homework November2/Console Application/obj/Debug/net6.0/Console Application.AssemblyInfoInputs.cache
+/Users/kleshny/Projects/Control homework November2/Console Application/obj/Debug/net6.0/Console Application.AssemblyInfo.cs
+/Users/kleshny/Projects/Control homework November2/Console Application/obj/Debug/net6.0/Console Application.csproj.CoreCompileInputs.cache
+/Users/kleshny/Projects/Control homework November2/Console Application/obj/Debug/net6.0/Console Application.csproj.CopyComplete
+/Users/kleshny/Projects/Control homework November2/Console Application/obj/Debug/net6.0/Console Application.dll
+/Users/kleshny/Projects/Control homework November2/Console Application/obj/Debug/net6.0/refint/Console Application.dll
+/Users/kleshny/Projects/Control homework November2/Console Application/obj/Debug/net6.0/Console Application.pdb
+/Users/kleshny/Projects/Control homework November2/Console Application/obj/Debug/net6.0/Console Application.genruntimeconfig.cache
+/Users/kleshny/Projects/Control homework November2/Console Application/obj/Debug/net6.0/ref/Console Application.dll

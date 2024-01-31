@@ -1,0 +1,12 @@
+/Users/kleshny/Projects/Control homework November2/ClassLibary/bin/Debug/net6.0/ClassLibary.deps.json
+/Users/kleshny/Projects/Control homework November2/ClassLibary/bin/Debug/net6.0/ClassLibary.dll
+/Users/kleshny/Projects/Control homework November2/ClassLibary/bin/Debug/net6.0/ClassLibary.pdb
+/Users/kleshny/Projects/Control homework November2/ClassLibary/obj/Debug/net6.0/ClassLibary.csproj.AssemblyReference.cache
+/Users/kleshny/Projects/Control homework November2/ClassLibary/obj/Debug/net6.0/ClassLibary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kleshny/Projects/Control homework November2/ClassLibary/obj/Debug/net6.0/ClassLibary.AssemblyInfoInputs.cache
+/Users/kleshny/Projects/Control homework November2/ClassLibary/obj/Debug/net6.0/ClassLibary.AssemblyInfo.cs
+/Users/kleshny/Projects/Control homework November2/ClassLibary/obj/Debug/net6.0/ClassLibary.csproj.CoreCompileInputs.cache
+/Users/kleshny/Projects/Control homework November2/ClassLibary/obj/Debug/net6.0/ClassLibary.dll
+/Users/kleshny/Projects/Control homework November2/ClassLibary/obj/Debug/net6.0/refint/ClassLibary.dll
+/Users/kleshny/Projects/Control homework November2/ClassLibary/obj/Debug/net6.0/ClassLibary.pdb
+/Users/kleshny/Projects/Control homework November2/ClassLibary/obj/Debug/net6.0/ref/ClassLibary.dll

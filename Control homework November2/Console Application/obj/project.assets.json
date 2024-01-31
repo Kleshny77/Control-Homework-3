@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "ClassLibary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ClassLibary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClassLibary/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibary/ClassLibary.csproj",
+      "msbuildProject": "../ClassLibary/ClassLibary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "ClassLibary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/kleshny/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/kleshny/Projects/Control homework November2/Console Application/Console Application.csproj",
+      "projectName": "Console Application",
+      "projectPath": "/Users/kleshny/Projects/Control homework November2/Console Application/Console Application.csproj",
+      "packagesPath": "/Users/kleshny/.nuget/packages/",
+      "outputPath": "/Users/kleshny/Projects/Control homework November2/Console Application/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/kleshny/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/Users/kleshny/Projects/Control homework November2/ClassLibary/ClassLibary.csproj": {
+              "projectPath": "/Users/kleshny/Projects/Control homework November2/ClassLibary/ClassLibary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.413/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
